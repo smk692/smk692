@@ -5,7 +5,6 @@
 ### 🏓 Total Hit!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmk692%2Fhit-counter&count_bg=%23000000&title_bg=%23753BCA&icon=&icon_color=%23FFFFFF&title=Total&edge_flat=true)](https://hits.seeyoufarm.com)
 
-
 ### 🖐🏻 Self-Introduction 
 ## Introduction
 ### 안녕하세요 한 없이 게으러지고 싶은 욕망으로 일률을 높이고 있는 백엔드 개발자 손(Son/손민기) 입니다.
@@ -40,13 +39,15 @@
   
 ### Language
 <span>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/HCL-0075A8?style=flat-square&logo=hashicorp&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+  <img src="https://img.shields.io/badge/HCL-0075A8?style=for-the-badge&logo=hashicorp&logoColor=white" alt="HCL">
+
+
 </span>
 
 <br/>
